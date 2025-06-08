@@ -13,8 +13,6 @@ This repository contains:
 
 - **black_hole_info_force.py** — Core Python script for data processing and analysis
 - **data/** — Folder to store gravitational wave strain data (HDF5 format)
-- **results/** — Automatically generated results, plots, and logs
-- **notebooks/** — (Optional) Jupyter notebooks for further exploratory analysis
 
 The main objective is to provide numerical evidence for the **Black Hole Information Force** hypothesis through real-world gravitational data.
 
@@ -60,18 +58,12 @@ This project is licensed under the [MIT License](LICENSE).
 
 For questions, collaborations, or further discussion:
 
-- **Joshua Jesurah**  
-- 📧 Email: [jjesuraj37@gmail.com](mailto:jjesuraj37@gmail.com)  
-- 🔗 GitHub: [yourusername](https://github.com/yourusername/black-hole-info-force)
+- **Joshua Jesuraj Sanctus && Shubhang Srinivas Varda**  
+- 📧 Email: jjesuraj37@gmail.com(mailto:jjesuraj37@gmail.com) && vardashubhang@gmail.com(mailto:vardashubhang@gmail.com)
+- 🔗 GitHub: joshua-byte(https://github.com/joshua-byte/Black-Hole-Information-Force-Computational-Analysis)
 
 ---
 
 ## ⭐️ Contributions
 
 Contributions are welcome! Feel free to fork the repository, create issues, or open pull requests.
-
----
-
-## 📊 Citation
-
-If you use this code for academic purposes, please consider citing the associated paper once available.

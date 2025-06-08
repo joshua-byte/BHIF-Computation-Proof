@@ -47,7 +47,9 @@ python black_hole_info_force.py
 All gravitational wave data used in this project are sourced from the publicly available [Gravitational Wave Open Science Center (GWOSC)](https://www.gw-openscience.org/).
 
 ---
+## 📄 License
 
+This project is licensed under the [MIT License](LICENSE).
 
 ## ✉️ Contact
 

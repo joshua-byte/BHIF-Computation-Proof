@@ -12,7 +12,7 @@ This project investigates a novel hypothesis that reconceptualizes black holes a
 This repository contains:
 
 - **black_hole_info_force.py** — Core Python script for data processing and analysis
-- **data/** — Folder to store gravitational wave strain data (HDF5 format)
+- **H-H1_GWOSC_16KHZ_R1-1126259447-32.hdf5**  gravitational wave strain data (HDF5 format)
 
 The main objective is to provide numerical evidence for the **Black Hole Information Force** hypothesis through real-world gravitational data.
 

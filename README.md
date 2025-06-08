@@ -59,7 +59,7 @@ This project is licensed under the [MIT License](LICENSE).
 For questions, collaborations, or further discussion:
 
 - **Joshua Jesuraj Sanctus && Shubhang Srinivas Varda**  
-- 📧 Email: jjesuraj37@gmail.com(mailto:jjesuraj37@gmail.com) && vardashubhang@gmail.com(mailto:vardashubhang@gmail.com)
+- 📧 Email: jjesuraj37@gmail.com && vardashubhang@gmail.com
 - 🔗 GitHub: joshua-byte(https://github.com/joshua-byte/Black-Hole-Information-Force-Computational-Analysis)
 
 ---

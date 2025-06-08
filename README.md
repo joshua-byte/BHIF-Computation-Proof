@@ -31,14 +31,14 @@ pip install numpy h5py matplotlib scipy
 
 ## 🚀 Usage
 
-1. **Download data**: Place gravitational wave strain data files (HDF5 format) in the `data/` directory.
+1. **Download data**: Make sure the hdf5 dataset is in the same directory as the script 
 2. **Run the analysis**:
 
 ```bash
 python black_hole_info_force.py
 ```
 
-3. **View results**: Outputs including plots, numerical logs, and graphs will be saved in the `results/` folder.
+3. **View results**: 
 
 ---
 
@@ -48,11 +48,6 @@ All gravitational wave data used in this project are sourced from the publicly a
 
 ---
 
-## 📄 License
-
-This project is licensed under the [MIT License](LICENSE).
-
----
 
 ## ✉️ Contact
 
